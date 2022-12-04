@@ -1,0 +1,8 @@
+# TypeProf 0.21.3
+
+# Classes
+class Foo
+  @block: ^-> (String | Integer)
+
+  def method_with_block: -> void
+end
