@@ -4,7 +4,7 @@
    signature "sig"
 
    check "lib"                       # Directory name
-   check "Gemfile"                   # File name
+   # check "Gemfile"                   # File name
    # ignore "lib/templates/*.rb"
 
    # library "pathname", "set"       # Standard libraries
